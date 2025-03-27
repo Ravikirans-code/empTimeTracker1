@@ -4,7 +4,7 @@
 
 This **Employee Time Tracking App** is fully AI-generated using **v0.dev by Vercel** for both generation and deployment.
 
-- **Validated by QA** and the **v0.dev core team**.
+- **Validated by QA** and the **v0.dev team**.
 - Built as part of **ML for v0.dev**, supporting multi-setup approval.
 - **Full app generation within 10 hours**, including QA validation.
 
