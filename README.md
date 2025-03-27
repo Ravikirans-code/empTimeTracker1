@@ -1,6 +1,6 @@
 # Employee Time Tracking App
 
-## AI-Powered, Next.js-Based App
+## AI-Generated, Next.js-Based App
 
 This **Employee Time Tracking App** is fully AI-generated using **v0.dev by Vercel** for both generation and deployment.
 
